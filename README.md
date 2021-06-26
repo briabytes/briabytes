@@ -1,4 +1,8 @@
-# Hello✌🏼 <br> It is so **stellar**💫 that **you're** here📍
+# Front-End Developer with an emphasis in UX and customer service
+
+# Hello, my name is Bria ✌🏼 <br> It is so **stellar**💫 that **you're** here📍
+
+
 
 <!--
 **briabytes/briabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

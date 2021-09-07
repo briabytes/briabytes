@@ -1,6 +1,7 @@
-# Front-End Developer with an emphasis in UX and customer service
+![CoverArt-BB10 49MB](https://user-images.githubusercontent.com/57609853/132418783-47e328cd-0b7b-4be3-bfd7-cd635b94fa86.jpg)
+# Hello, my name is Bria ✌🏼 <br> It is so **stellar**🌟 that **you're** here📍
 
-# Hello, my name is Bria ✌🏼 <br> It is so **stellar**💫 that **you're** here📍
+## Connect with me:
 
 
 

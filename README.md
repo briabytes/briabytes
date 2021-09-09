@@ -2,7 +2,7 @@
 # Hello, my name is Bria ✌🏼 <br> It is so **stellar**🌟 that **you're** here📍
 
 ## Connect with me: 
-[<img align='left' alt='linkedin icon' src='linkedin.svg' />] [linkedin]
+[<img align='left' alt='linkedin icon' width='24px' src='linkedin.svg' />] [linkedin]
 [<img align='left' alt='yahoo icon' src='yahoo.svg' />] [yahoo]<br>
 [<img align='left' alt='medium icon' src='medium.svg' />] [medium]
 [<img align='left' alt='twitter icon' src='twitter.svg' />] [twitter]<br>

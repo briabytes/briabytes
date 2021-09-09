@@ -2,15 +2,19 @@
 # Hello, my name is Bria ✌🏼 <br> It is so **stellar**🌟 that **you're** here📍
 
 ## Connect with me: 
-![linkedin](https://user-images.githubusercontent.com/57609853/132451402-1c5b1d49-85ea-41cb-b12a-0d26cce34f86.jpg)[linkedin]
-![yahoo](https://user-images.githubusercontent.com/57609853/132451542-ea506ae7-c2a4-4a77-a64f-c81e3a46479c.jpg)<br>
-![medium](https://user-images.githubusercontent.com/57609853/132451563-f14248ba-6bcc-4d1d-ade8-5a943ba77c3c.jpg)
-![twitter](https://user-images.githubusercontent.com/57609853/132451573-9a3244da-a40b-4275-821d-811eb8d8aae9.jpg)<br>
-![gmail](https://user-images.githubusercontent.com/57609853/132451585-3b65ccc7-3af5-4cc8-b305-b0026d5bf72c.jpg)
-![phone](https://user-images.githubusercontent.com/57609853/132451600-3ee36899-0261-4c65-8833-5aaa1abe857c.jpg)
+[<img align='left' alt='linkedin icon' src='linkedin.svg' />] [linkedin]
+[<img align='left' alt='yahoo icon' src='yahoo.svg' />] [yahoo]<br>
+[<img align='left' alt='medium icon' src='medium.svg' />] [medium]
+[<img align='left' alt='twitter icon' src='twitter.svg' />] [twitter]<br>
+[<img align='left' alt='gmail icon' src='gmail.svg' />] [gmail]
+[<img align='left' alt='phone icon' src='phone.svg' />] [phone]
 
 [linkedin]: https://www.linkedin.com/in/briabarry
-
+[yahoo]: briabarry@yahoo.com
+[medium]: https://medium.com/@briabyte
+[twitter]: https://twitter.com/briabyte
+[gmail]: 008143@gmail.com
+[phone]: 816-673-9208
 <!--
 **briabytes/briabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

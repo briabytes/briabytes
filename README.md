@@ -1,10 +1,7 @@
 ![CoverArt-BB10 49MB](https://user-images.githubusercontent.com/57609853/132418783-47e328cd-0b7b-4be3-bfd7-cd635b94fa86.jpg)
 # Hello, my name is Bria ✌🏼 <br> It is so **stellar**🌟 that **you're** here📍
 
-## Connect with me: 
-[![twitter](https://user-images.githubusercontent.com/57609853/133347548-ebed3b08-4e6d-4ace-96eb-eda17ef43423.jpg)](https://twitter.com/briabyte)
-[![medium](https://user-images.githubusercontent.com/57609853/133347574-8f3eae93-29dc-4650-87a1-d6452510dd17.jpg)](https://medium.com/@briabyte)
-[![linkedin](https://user-images.githubusercontent.com/57609853/133347606-535b4071-22be-4d3e-8c26-34f68ff2250d.jpg)](https://www.linkedin.com/in/briabarry)
+## Connect with me: [![twitter](https://user-images.githubusercontent.com/57609853/133347548-ebed3b08-4e6d-4ace-96eb-eda17ef43423.jpg)](https://twitter.com/briabyte) [![medium](https://user-images.githubusercontent.com/57609853/133347574-8f3eae93-29dc-4650-87a1-d6452510dd17.jpg)](https://medium.com/@briabyte) [![linkedin](https://user-images.githubusercontent.com/57609853/133347606-535b4071-22be-4d3e-8c26-34f68ff2250d.jpg)](https://www.linkedin.com/in/briabarry)
 
 <!--
 **briabytes/briabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

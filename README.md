@@ -2,19 +2,10 @@
 # Hello, my name is Bria ✌🏼 <br> It is so **stellar**🌟 that **you're** here📍
 
 ## Connect with me: 
-[<img align='left' alt='linkedin icon' width='24px' src='linkedin.svg' />] [linkedin]
-[<img align='left' alt='yahoo icon' src='yahoo.svg' />] [yahoo]<br>
-[<img align='left' alt='medium icon' src='medium.svg' />] [medium]
-[<img align='left' alt='twitter icon' src='twitter.svg' />] [twitter]<br>
-[<img align='left' alt='gmail icon' src='gmail.svg' />] [gmail]
-[<img align='left' alt='phone icon' src='phone.svg' />] [phone]
+[![twitter](https://user-images.githubusercontent.com/57609853/133347548-ebed3b08-4e6d-4ace-96eb-eda17ef43423.jpg)](https://twitter.com/briabyte)
+[![medium](https://user-images.githubusercontent.com/57609853/133347574-8f3eae93-29dc-4650-87a1-d6452510dd17.jpg)](https://medium.com/@briabyte)
+[![linkedin](https://user-images.githubusercontent.com/57609853/133347606-535b4071-22be-4d3e-8c26-34f68ff2250d.jpg)](https://www.linkedin.com/in/briabarry)
 
-[linkedin]: https://www.linkedin.com/in/briabarry
-[yahoo]: briabarry@yahoo.com
-[medium]: https://medium.com/@briabyte
-[twitter]: https://twitter.com/briabyte
-[gmail]: 008143@gmail.com
-[phone]: 816-673-9208
 <!--
 **briabytes/briabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
